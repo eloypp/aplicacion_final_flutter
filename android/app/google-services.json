@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64415313047",
+    "project_id": "cuanto-sabes-d8b03",
+    "storage_bucket": "cuanto-sabes-d8b03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64415313047:android:aad176ec760d88d7b10dd2",
+        "android_client_info": {
+          "package_name": "com.eloypp99.projecto_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp4El_-h0diDikSC9DvZIbq-XOP5WaiOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
