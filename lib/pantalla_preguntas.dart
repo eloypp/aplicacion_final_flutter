@@ -110,6 +110,96 @@ class _PantallaPreguntasState extends State<PantallaPreguntas> {
       'respuestaCorrecta': 'Yen',
       'respuestaSeleccionada': null,
     },
+    {
+      'enunciado': '¿Cuál es el océano más grande del mundo?',
+      'opciones': ['Atlántico', 'Índico', 'Antártico', 'Pacífico'],
+      'respuestaCorrecta': 'Pacífico',
+      'respuestaSeleccionada': null,
+    },
+    {
+      'enunciado': '¿Cuál es la capital de Australia?',
+      'opciones': ['Sídney', 'Melbourne', 'Canberra', 'Brisbane'],
+      'respuestaCorrecta': 'Canberra',
+      'respuestaSeleccionada': null,
+    },
+    {
+      'enunciado': '¿En qué año se fundó la Organización de las Naciones Unidas (ONU)?',
+      'opciones': ['1945', '1955', '1965', '1975'],
+      'respuestaCorrecta': '1945',
+      'respuestaSeleccionada': null,
+    },
+    {
+      'enunciado': '¿Cuál es el metal más abundante en la corteza terrestre?',
+      'opciones': ['Oro', 'Hierro', 'Aluminio', 'Plata'],
+      'respuestaCorrecta': 'Aluminio',
+      'respuestaSeleccionada': null,
+    },
+    {
+      'enunciado': '¿Quién escribió "Cien años de soledad"?',
+      'opciones': ['Gabriel García Márquez', 'Mario Vargas Llosa', 'Julio Cortázar', 'Isabel Allende'],
+      'respuestaCorrecta': 'Gabriel García Márquez',
+      'respuestaSeleccionada': null,
+    },
+    {
+      'enunciado': '¿En qué continente se encuentra el río Nilo?',
+      'opciones': ['Europa', 'Asia', 'África', 'Oceanía'],
+      'respuestaCorrecta': 'África',
+      'respuestaSeleccionada': null,
+    },
+    {
+      'enunciado': '¿Cuál es el instrumento musical de viento más largo?',
+      'opciones': ['Trompeta', 'Tuba', 'Clarinete', 'Saxofón'],
+      'respuestaCorrecta': 'Tuba',
+      'respuestaSeleccionada': null,
+    },
+    {
+      'enunciado': '¿Cuál es el planeta más grande del sistema solar?',
+      'opciones': ['Tierra', 'Marte', 'Júpiter', 'Saturno'],
+      'respuestaCorrecta': 'Júpiter',
+      'respuestaSeleccionada': null,
+    },
+    {
+      'enunciado': '¿Cuál es la montaña más alta del mundo?',
+      'opciones': ['Monte Everest', 'Monte Kilimanjaro', 'Monte McKinley', 'Monte Aconcagua'],
+      'respuestaCorrecta': 'Monte Everest',
+      'respuestaSeleccionada': null,
+    },
+    {
+      'enunciado': '¿Quién fue el primer presidente de Estados Unidos?',
+      'opciones': ['Thomas Jefferson', 'George Washington', 'John Adams', 'James Madison'],
+      'respuestaCorrecta': 'George Washington',
+      'respuestaSeleccionada': null,
+    },
+    {
+      'enunciado': '¿Cuál es el metal más pesado?',
+      'opciones': ['Oro', 'Plomo', 'Mercurio', 'Platino'],
+      'respuestaCorrecta': 'Platino',
+      'respuestaSeleccionada': null,
+    },
+    {
+      'enunciado': '¿En qué año terminó la Segunda Guerra Mundial?',
+      'opciones': ['1945', '1949', '1955', '1960'],
+      'respuestaCorrecta': '1945',
+      'respuestaSeleccionada': null,
+    },
+    {
+      'enunciado': '¿Cuál es el país más grande del mundo por territorio?',
+      'opciones': ['China', 'Estados Unidos', 'Rusia', 'Canadá'],
+      'respuestaCorrecta': 'Rusia',
+      'respuestaSeleccionada': null,
+    },
+    {
+      'enunciado': '¿Cuál es el componente principal del aire?',
+      'opciones': ['Nitrógeno', 'Oxígeno', 'Dióxido de carbono', 'Hidrógeno'],
+      'respuestaCorrecta': 'Nitrógeno',
+      'respuestaSeleccionada': null,
+    },
+    {
+      'enunciado': '¿Qué país es conocido como "la tierra del sol naciente"?',
+      'opciones': ['China', 'Japón', 'India', 'Australia'],
+      'respuestaCorrecta': 'Japón',
+      'respuestaSeleccionada': null,
+    },
     // Puedes agregar más preguntas aquí según sea necesario
   ];
 
